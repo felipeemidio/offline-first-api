@@ -7,7 +7,7 @@ A Golang server to store text notes for didatic purposes.
 
 ## Frontend
 
-This project was used together with [this Flutter project]().
+This project was used together with [this Flutter project](https://github.com/felipeemidio/offline-first-poc).
 
 If you intend to recreate this project, remember to replace the `BASE_URL` in the `api_datasource.dart` file
 
